@@ -1,0 +1,11 @@
+C:\Users\Neil Michaels\source\repos\BinarySearchTreeProject\bin\Debug\netcoreapp3.1\BinarySearchTreeProject.exe
+C:\Users\Neil Michaels\source\repos\BinarySearchTreeProject\bin\Debug\netcoreapp3.1\BinarySearchTreeProject.deps.json
+C:\Users\Neil Michaels\source\repos\BinarySearchTreeProject\bin\Debug\netcoreapp3.1\BinarySearchTreeProject.runtimeconfig.json
+C:\Users\Neil Michaels\source\repos\BinarySearchTreeProject\bin\Debug\netcoreapp3.1\BinarySearchTreeProject.runtimeconfig.dev.json
+C:\Users\Neil Michaels\source\repos\BinarySearchTreeProject\bin\Debug\netcoreapp3.1\BinarySearchTreeProject.dll
+C:\Users\Neil Michaels\source\repos\BinarySearchTreeProject\bin\Debug\netcoreapp3.1\BinarySearchTreeProject.pdb
+C:\Users\Neil Michaels\source\repos\BinarySearchTreeProject\obj\Debug\netcoreapp3.1\BinarySearchTreeProject.csprojAssemblyReference.cache
+C:\Users\Neil Michaels\source\repos\BinarySearchTreeProject\obj\Debug\netcoreapp3.1\BinarySearchTreeProject.AssemblyInfoInputs.cache
+C:\Users\Neil Michaels\source\repos\BinarySearchTreeProject\obj\Debug\netcoreapp3.1\BinarySearchTreeProject.AssemblyInfo.cs
+C:\Users\Neil Michaels\source\repos\BinarySearchTreeProject\obj\Debug\netcoreapp3.1\BinarySearchTreeProject.dll
+C:\Users\Neil Michaels\source\repos\BinarySearchTreeProject\obj\Debug\netcoreapp3.1\BinarySearchTreeProject.pdb
